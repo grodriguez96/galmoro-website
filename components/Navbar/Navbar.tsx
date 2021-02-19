@@ -6,7 +6,7 @@ export default function Navbar() {
     <header className="header text-center">
       <div className="force-overflow">
         <h1 className="blog-name pt-lg-4 mb-0">
-          <a href="">Gabriel Rodriguez</a>
+          <a href="/">Gabriel Rodriguez</a>
         </h1>
 
         <nav className="navbar navbar-expand-lg navbar-dark">
@@ -60,7 +60,7 @@ export default function Navbar() {
             <div className="dark-mode-toggle text-center w-100">
               <hr className="mb-4" />
               <h4 className="toggle-name mb-3 ">
-                <i className="fas fa-adjust mr-1"></i>Dark Mode
+                <i className="fas fa-adjust mr-1"></i>Modo Oscuro
               </h4>
 
               <input className="toggle" id="darkmode" type="checkbox" />

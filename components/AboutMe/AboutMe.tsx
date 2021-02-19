@@ -10,25 +10,25 @@ export default function AboutMe() {
               I'm a software engineer specialised in frontend and backend
               development for complex scalable web apps. I write about software
               development on{" "}
-              <a className="link-on-bg" href="blog-home.html">
+              <a className="link-on-bg" href="#">
                 my blog
               </a>
               . Want to know how I may help your project? Check out my project{" "}
-              <a className="link-on-bg" href="projects.html">
+              <a className="link-on-bg" href="#">
                 portfolio
               </a>{" "}
               and{" "}
-              <a className="link-on-bg" href="resume.html">
+              <a className="link-on-bg" href="#">
                 online resume
               </a>
               .
             </div>
             <div className="mb-4">
-              <a className="btn btn-primary mr-2 mb-3" href="portfolio.html">
+              <a className="btn btn-primary mr-2 mb-3" href="#">
                 <i className="fas fa-arrow-alt-circle-right mr-2"></i>
                 <span className="d-none d-md-inline">View</span> Portfolio
               </a>
-              <a className="btn btn-secondary mb-3" href="resume.html">
+              <a className="btn btn-secondary mb-3" href="#">
                 <i className="fas fa-file-alt mr-2"></i>
                 <span className="d-none d-md-inline">View</span> Resume
               </a>

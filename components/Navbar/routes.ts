@@ -6,7 +6,7 @@ export interface route {
 }
 
 export const routes: Array<route> = [
-  { id: "1", href: "", name: "Sobre Mi", class: "fas fa-user" },
+  { id: "1", href: "/", name: "Sobre Mi", class: "fas fa-user" },
   {
     id: "2",
     href: "portafolio",
